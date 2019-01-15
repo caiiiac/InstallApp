@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.244:3000/ipa/sBank.ipa</string>
+					<string>http://171.15.16.62/ios/ipk/sBank.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
